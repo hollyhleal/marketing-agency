@@ -7,3 +7,5 @@ In this project, I refactored the starter code in an effort to improve accessibi
 3. Added accessible alt attributes to all images on the page.
 4. Ensured all heading attributes fell in sequential order.
 5. Updated the title element to a descriptive title of the site.
+
+<img src="./assets/images/hollyhleal.github.io_marketing-agency_.png" alt="marketing agency project screenshot">
