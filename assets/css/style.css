@@ -1,13 +1,16 @@
+/* universal selector to apply to entire html element */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* body to apply to entire body element */
 body {
   background-color: #d9dcd6;
 }
 
+/* applies to h1 and nav list items */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -21,6 +24,7 @@ header h1 {
   font-size: 48px;
 }
 
+/* only applies to text within span tag in h1 of header */
 header h1 .seo {
   color: #d9dcd6;
 }
@@ -33,6 +37,7 @@ nav {
   font-size: 20px;
 }
 
+/* removes bulleted list style of unordered list elements */
 nav ul {
   list-style-type: none;
 }
@@ -42,6 +47,7 @@ nav ul li {
   margin-left: 25px;
 }
 
+/* applies a color and removes the underline on the nav items */
 a {
   color: #ffffff;
   text-decoration: none;
@@ -51,6 +57,7 @@ p {
   font-size: 16px;
 }
 
+/* applies to hero area (image below nav) on page */
 .hero {
   height: 800px;
   width: 100%;
@@ -94,6 +101,7 @@ p {
   font-size: 36px;
 }
 
+/* applies to only the aside section on the right of the page (on desktop) */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -110,6 +118,7 @@ aside h3 {
   text-align: center;
 }
 
+/* applies to items with class="benefit" in the aside */
 .benefit {
   margin-bottom: 32px;
   color: #ffffff;
