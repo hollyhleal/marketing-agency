@@ -8,7 +8,9 @@ In this project, I refactored the starter code in an effort to improve accessibi
 4. Ensured all heading attributes fell in sequential order.
 5. Updated the title element to a descriptive title of the site.
 
-## Link: [https://hollyhleal.github.io/marketing-agency/ target="\_blank"](https://hollyhleal.github.io/marketing-agency/)
+## Link:
+
+[https://hollyhleal.github.io/marketing-agency/](https://hollyhleal.github.io/marketing-agency/)
 
 ## Screenshot:
 
